@@ -23,4 +23,5 @@ RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 
 # Start your bot
-CMD ["python", "main.py"]
+CMD ["python", "bot.py"]
+
